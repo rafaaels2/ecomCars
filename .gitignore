@@ -1,41 +1,17 @@
-# Visual Studio Code
-.vscode/
-
-# Node.Js
 node_modules/
-npm-debug.log
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
 
-# Expo
-.expo
+# macOS
+.DS_Store
 
-# Xcode
-build/
-*.pbxuser
-!default.pbxuser
-*.mode1v3
-!default.mode1v3
-*.mode2v3
-!default.mode2v3
-*.perspectivev3
-!default.perspectivev3
-xcuserdata
-*.xccheckout
-*.moved-aside
-DerivedData
-*.hmap
-*.ipa
-*.xcuserstate
-project.xcworkspace
-
-# Android/IntelliJ
-build/
-.idea
-.gradle
-local.properties
-*.iml
-
-# Bundle artifact
-*.jsbundle
-
-# CocoaPods
-/ios/Pods/
+# Temporary files created by Metro to check the health of the file watcher
+.metro-health-check*
