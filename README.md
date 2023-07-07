@@ -6,12 +6,14 @@ A nova versão da capacitação mobile utiliza do framework Expo, cujas funciona
 
 # Como rodar no Linux ?
 ```
+npm install
 npx expo start --tunnel
 ```
 e apertar a tecla **a**.
 
 # Como rodar no macOS ?
 ```
+npm install
 npx expo start --tunnel
 ```
 *consute alguem de qualijetos...*
@@ -19,6 +21,7 @@ npx expo start --tunnel
 # Como rodar no seu celular ?
 Para evitar problemas envolvendo emuladores, essa é a prática mais recomendada. Entretanto dessa maneira será necessário instalar e criar uma conta no [Expo Go](https://expo.dev/client), disponível tanto na Play Store quanto na App Store.
 ```
+npm install
 npx expo start --tunnel
 ```
 e escanear o QR code que aparecerá no terminal com o Expo Go (Android) ou com a camera do celular (IOS)
