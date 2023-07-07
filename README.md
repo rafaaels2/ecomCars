@@ -14,7 +14,7 @@ e apertar a tecla **a**.
 ```
 npx expo start --tunnel
 ```
-sla q se foda o mackkkkkk
+*consute alguem de qualijetos...*
 
 # Como rodar no seu celular ?
 Para evitar problemas envolvendo emuladores, essa é a prática mais recomendada. Entretanto dessa maneira será necessário instalar e criar uma conta no [Expo Go](https://expo.dev/client), disponível tanto na Play Store quanto na App Store.
